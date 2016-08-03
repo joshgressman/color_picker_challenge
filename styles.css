@@ -1,0 +1,28 @@
+
+
+header {
+  height: 100px;
+}
+
+#inst {
+  height: 50px
+}
+
+#colorBox{
+  height: 300px;
+
+}
+
+.box {
+  height: 140px;
+  width: 140px;
+  /*background-color: red;*/
+  margin: 100px 5px 5px 5px;
+  float: left;
+
+}
+
+#but {
+  background-color: black;
+  color: white;
+}
